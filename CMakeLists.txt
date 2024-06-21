@@ -30,7 +30,7 @@ source_group("Src\\asm" FILES ${THEORA_ASM_SOURCES})
 
 # set include directories
 include_directories(
-	../libogg/include
+	../ogg/include
 	./include
 )
 
